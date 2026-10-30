@@ -7,7 +7,7 @@ layout: default
 
 One line on who we are and what we're documenting.
 
-[Join us on Slack](#) . [View the software map](software-map/)
+[Join us on Slack](#) . [View the software map](software-map.html)
 
 ## What we're working on
 

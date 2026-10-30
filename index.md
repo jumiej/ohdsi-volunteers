@@ -11,6 +11,7 @@ One line on who we are and what we're documenting.
 [Join us on Slack](#){: .button} . [View the software map](software-map.html){: .button}
 
 ## What we're working on
+{: .section-label}
 
 <div class="cards">
   <div class="card">
@@ -32,10 +33,12 @@ One line on who we are and what we're documenting.
 
 
 ## Software map
+{: .section-label}
 
 <div class="diagram-placeholder">Architecture and data workflow diagram</div>
 
 ## Who's involved
+{: .section-label}
 
 - ...
 

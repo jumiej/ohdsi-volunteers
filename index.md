@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: default
 ---
 
 # Clinical and research health data management

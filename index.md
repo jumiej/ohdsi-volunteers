@@ -30,6 +30,7 @@ One line on who we are and what we're documenting.
   </div>
 </div>
 
+
 ## Software map
 
 <div class="diagram-placeholder">Architecture and data workflow diagram</div>
@@ -38,6 +39,3 @@ One line on who we are and what we're documenting.
 
 - ...
 
-## Join
-
-How someone can get involved.

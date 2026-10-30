@@ -6,6 +6,8 @@ layout: default
 # Open source volunteers for OHDSI
 
 One line on who we are and what we're documenting.
+
+
 [Join us on Slack](#){: .button} . [View the software map](software-map.html){: .button}
 
 ## What we're working on

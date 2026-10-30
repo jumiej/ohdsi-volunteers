@@ -1,7 +1,12 @@
 title: ohdsi-volunteers
 description: clinical and research data management 
 theme: minima
-header _page:
+header _pages:
 - index.md
 - about.md
 - software-map.md
+
+header_pages:
+  - index.md
+  - about.md
+  - software-map.md

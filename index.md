@@ -12,14 +12,17 @@ One line on who we are and what we're documenting.
 
 ## What we're working on
 
-- **Software review:** Every OHDSI open source tool, with repo links
-- **Architecture:** High-level data workflow diagram
-- **Contributions:** Doc feedback and issues we pick up
+- **Software review:** 
+Every OHDSI open source tool, with repo links
+- **Architecture:**
+High-level data workflow diagram
+- **Contributions:**
+Doc feedback and issues we pick up
 {: .cards}
 
 ## Software map
 
--- ** Architecture and data workflow diagram
+- **Architecture and data workflow diagram**
 {: .cards}
 
 ## Who's involved

@@ -20,12 +20,12 @@ One line on who we are and what we're documenting.
     <div class="card-desc">Every OHDSI open source tool, with repo links</div>
   </div>
    <div class="card">
-    <i class="ti-topology-star-3" aria-hidden="true"></i>
+    <i class="ti ti-topology-star-3" aria-hidden="true"></i>
     <div class="card-title">Architecture </div>
     <div class="card-desc">High-level data workflow diagram</div>
   </div>
   <div class="card">
-    <i class="ti-git-pull-request" aria-hidden="true"></i>
+    <i class="ti ti-git-pull-request" aria-hidden="true"></i>
     <div class="card-title">Contributions </div>
     <div class="card-desc">Doc feedback and issues we pick up</div>
   </div>

@@ -22,6 +22,11 @@ ul.cards {
   gap: 12px;
 }
 
+@media (max-width: 600px) {
+  ul.cards {
+    grid-template-columns: 1fr;
+  }
+}
 ul.cards li {
   background: #f4f4f4;
   border-radius: 8px;

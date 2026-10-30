@@ -1,5 +1,5 @@
 ---
-title: Observational Health Data Science and Informatics Project (OHDSI)
+title: Home
 layout: page
 ---
 

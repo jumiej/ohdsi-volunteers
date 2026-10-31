@@ -13,6 +13,12 @@ a.button {
   text-decoration: none;
 }
 
+a.button.secondary {
+  background: transparent;
+  color: #1a1a1a;
+  border: 1px solid #999;
+}
+
 
 .section-label { font-size: 14px; font-weight: 400; color: #666; }
 

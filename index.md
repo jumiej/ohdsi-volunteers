@@ -41,7 +41,7 @@ A volunteer group reviewing, documenting and contributing to OHDSI’s open sour
 ## Who's involved
 {: .section-label}
 
-<div class="people">
+<!-- <div class="people">
   <div class="person">
     <div class="avatar">J</div>
     <div class="person-name">Jumie</div>
@@ -58,4 +58,4 @@ A volunteer group reviewing, documenting and contributing to OHDSI’s open sour
     <div class="avatar">R</div>
     <div class="person-name">Rowland</div>
   </div>
-</div>
+</div> -->

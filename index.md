@@ -5,7 +5,8 @@ layout: default
 
 # Open source volunteers for OHDSI
 
-One line on who we are and what we're documenting.
+A volunteer group reviewing, documenting and contributing to OHDSI’s open source health data tools.
+
 
 [Join us on Slack](#){: .button} [View the software map](software-map.html){: .button.secondary}
 

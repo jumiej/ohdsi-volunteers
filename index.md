@@ -36,8 +36,25 @@ One line on who we are and what we're documenting.
 
 <div class="diagram-placeholder">Architecture and data workflow diagram</div>
 
+
 ## Who's involved
 {: .section-label}
 
-- ...
-
+<div class="people">
+  <div class="person">
+    <div class="avatar">J</div>
+    <div class="person-name">Jumie</div>
+  </div>
+  <div class="person">
+    <div class="avatar">A</div>
+    <div class="person-name">Ameya</div>
+  </div>
+  <div class="person">
+    <div class="avatar">Q</div>
+    <div class="person-name">Quang</div>
+  </div>
+  <div class="person">
+    <div class="avatar">R</div>
+    <div class="person-name">Rowland</div>
+  </div>
+</div>

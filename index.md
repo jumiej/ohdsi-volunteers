@@ -7,8 +7,8 @@ layout: default
 
 One line on who we are and what we're documenting.
 
-<a class="button" href="#">Join us on Slack</a>
-<a class="button secondary" href="software-map.html">View the software map</a>
+<!-- <a class="button" href="#">Join us on Slack</a>
+<a class="button secondary" href="software-map.html">View the software map</a> -->
 
 
 [Join us on Slack](#){: .button} [View the software map](software-map.html){: .button.secondary}

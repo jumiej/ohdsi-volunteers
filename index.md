@@ -8,7 +8,7 @@ layout: default
 One line on who we are and what we're documenting.
 
 
-[Join us on Slack](#){: .button} . [View the software map](software-map.html){: .button}
+[Join us on Slack](#){: .button} [View the software map](software-map.html){: .button.secondary}
 
 ## What we're working on
 {: .section-label}
